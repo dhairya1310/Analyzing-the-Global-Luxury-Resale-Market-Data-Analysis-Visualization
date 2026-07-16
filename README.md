@@ -79,6 +79,6 @@ This project demonstrates how structured analytics can inform pricing strategy, 
 
 The full interactive Tableau dashboard can be accessed here:
 
-🔗 https://public.tableau.com/app/profile/dhairya1310
+🔗 https://public.tableau.com/app/profile/dhairya1310/viz/AnalyzingtheGlobalLuxuryResaleMarket/AnalyzingtheGlobalLuxuryResaleMarket
 
 This version allows dynamic filtering, segmentation, and brand level exploration.
